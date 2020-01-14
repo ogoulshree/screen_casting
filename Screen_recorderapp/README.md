@@ -1,4 +1,4 @@
-# Electron Screen Recorder
+# Using electron framework Screen Recorder
 
 This is an electron-based screen recorder application. It uses WebRTC and
 recording.
